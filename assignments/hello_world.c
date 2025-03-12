@@ -11,12 +11,9 @@ int main() {
         School : Gobind Sarvar
      */
 
-<<<<<<< HEAD
-=======
-     printf("Name   : Hasleen Kaur\n");
-     printf("DOB    : April 27, 2009\n");
+     printf("Name   : Avneet Kaur\n");
+     printf("DOB    : Jan 22, 2008\n");
      printf("School : Gobind Sarvar\n");
 
->>>>>>> 761d188b84fd3068a41e5cd69238c14c84975109
     return 0;
 }
