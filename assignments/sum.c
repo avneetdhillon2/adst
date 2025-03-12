@@ -10,34 +10,20 @@ int main() {
     Sum of the above two integers = 63
      */
     int num1 = 25;
-<<<<<<< HEAD
-    int num2 = 50;
-=======
-    int num2 = 58;
->>>>>>> 761d188b84fd3068a41e5cd69238c14c84975109
+    int num2 = 30;
     int sum;
 
     printf("The first number is: %d\n", num1);
     printf("The second number is: %d\n", num2);
 
     sum = num1 + num2;
-<<<<<<< HEAD
     printf("The sum is: %d\n", sum);
 
-    int multiply = num1 * num2;
-    float divide = (float)num1 / num2;
+    // int multiply = num1 *num2;
+    // float divide = (float)num1 / num2;
 
-    printf("The multiplication is: %d\n", multiply);
-    printf("The division is: %.2f\n", divide);
-=======
-    printf ("The sum is: %d\n", sum);
-
-    int multiply = num1 *num2;
-    float divide = (float)num1 / num2;
-
-    printf ("The multiplication is: %d\n", multiply);
-    printf ("The division is: %.2f\n", divide);
->>>>>>> 761d188b84fd3068a41e5cd69238c14c84975109
+    // printf ("The multiplication is: %d\n", multiply);
+    // printf ("The division is: %.2f\n", divide);
 
     return 0;
 }
